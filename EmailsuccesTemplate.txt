@@ -1,0 +1,12 @@
+Dear human,
+
+Your email automation robot has succesfully completed at {0}
+
+
+The following emails/ attachments have saved to your device:
+
+{1}
+
+kind regards,
+
+Email automation Robot

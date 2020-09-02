@@ -1,0 +1,13 @@
+Dear human,
+
+Unusal activity has been recorded at {0}
+
+Error Message:
+
+{1}
+
+See attached for the screen shot of error.
+Regards,
+
+Email automation robots.
+
